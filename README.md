@@ -1,4 +1,4 @@
-# Starter Web Project
+# Starter Web Project Title
 
 This is a simple web project for the use of Git and Github together.
 
@@ -8,6 +8,10 @@ Examples to show different parts of Git repo and various commands.
 
 ## Purpose
 
+As stated above, the main purpose is to provide simple examples for git training.
+
 ## Deployment
+
+This is a simple web project, deployment can be on any of the server or even local file system.
 
 ## How to Continue
