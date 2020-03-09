@@ -1,6 +1,6 @@
 # Starter Web Project Title
 
-This is a simple web project for the use of Git and Github together.
+This is a simple web project for use of Git and Github together.
 
 ## Introduction
 
