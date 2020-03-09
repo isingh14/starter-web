@@ -12,8 +12,8 @@ As stated above, main purpose is to provide simple examples for git training.
 
 ## Deployment
 
-This is a simple web project, deployment can be on any of the server or even local file system.
+This is a simple web project, deployment can be on any of the server or even local file systems.
 
 ## How to Continue
 
-Please fork this repo and then issue pull request for review.
+Please fork this repo and then issue pull request for the review.
