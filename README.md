@@ -8,7 +8,7 @@ Examples to show different parts of Git repo and various commands.
 
 ## Purpose
 
-As stated above, the main purpose is to provide simple examples for git training.
+As stated above, main purpose is to provide simple examples for git training.
 
 ## Deployment
 
